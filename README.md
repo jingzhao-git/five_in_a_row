@@ -4,7 +4,7 @@ https://codereview.stackexchange.com/questions/210788/gomoku-game-in-ruby
 https://github.com/rasefon/gobang
 https://zhuanlan.zhihu.com/p/39527867
 ## Repository
-
+https://github.com/jingzhao-git/five_in_a_row
 ## Software Development Plan 
 Five in a row app is traditionally played with Go pieces (black and white stones) on a Go board. 
 Because pieces are typically not moved or removed from the board, five_in_a_row may also be played as a paper-and-pencil game. 
