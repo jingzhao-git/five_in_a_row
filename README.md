@@ -22,6 +22,9 @@ Its main audiences are students and the elderly, those who like to play some cas
 
 How to use this app: Two users use two types of symble--@ and O, which represent black and white pieces, respectively, and take turns to input coordinates such as (1, 1) to place the pieces in the corresponding grid on the chessboard. The player who meets the victory criteria first wins.
 
+### Trello
+https://trello.com/b/VOMEOvbG/jings-daily-task
+
 ## Features
 When the first player finishes playing chess, it will switch to the second player
 
